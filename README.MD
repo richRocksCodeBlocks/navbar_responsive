@@ -9,6 +9,6 @@ This particular version utilizes work from the following projects.
 * [HTM5 Boilerplate](https://html5boilerplate.com/)
 * [Google Fonts](https://fonts.google.com/)
 
-**Please Feel Free To Use In Your Projects, improve upon or modify as you see fit**
+**Please feel free to use in your projects, improve upon or modify as you see fit**
 
 **Pull Requests Are Welcome**
