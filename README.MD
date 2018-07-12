@@ -12,3 +12,5 @@ This particular version utilizes work from the following projects.
 **Please feel free to use in your projects, improve upon or modify as you see fit**
 
 **Pull Requests Are Welcome**
+
+##[Live Demo](https://richrockscodeblocks.github.io/navbar_responsive/)
